@@ -7,7 +7,7 @@
 
 # User-specific files
 .Ruserdata
-
+*.xlsx
 # Example code in package build process
 *-Ex.R
 
